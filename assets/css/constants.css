@@ -1,0 +1,17 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: #D8CDBE;
+  --theme-color-secondary: #E4DBCE;
+  --theme-color-tertiary:#777653;
+  --theme-color-accent: #F1EBE3;
+  --theme-color-accent-2: #3D2615;
+  --theme-color-body: #3D2615;
+
+  --theme-transition: all 0.3s ease-in.out;
+
+  --theme-font-body: "PlaywriteUSTrad" 
+}
